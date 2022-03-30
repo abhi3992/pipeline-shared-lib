@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1648630456,,"wq"
+|2,0,1648631240,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +25,32 @@
 # Registers:
 
 # File marks:
-'0  2  137  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,48,2,137,1648630456,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'1  2  118  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,49,2,118,1648630019,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'2  2  98  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,50,2,98,1648629859,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'3  2  98  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,51,2,98,1648629859,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'4  2  79  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,52,2,79,1648623809,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'5  2  79  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,53,2,79,1648623809,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'6  2  79  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,54,2,79,1648623809,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'7  2  79  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,55,2,79,1648623809,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'8  2  59  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,56,2,59,1648623471,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
-'9  2  59  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,57,2,59,1648623471,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'0  2  178  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,48,2,178,1648631240,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'1  2  151  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,49,2,151,1648631080,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'2  2  137  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,50,2,137,1648630456,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'3  2  137  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,51,2,137,1648630456,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'4  2  118  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,52,2,118,1648630019,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'5  2  118  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,53,2,118,1648630019,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'6  2  118  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,54,2,118,1648630019,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'7  2  118  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,55,2,118,1648630019,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'8  2  98  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,56,2,98,1648629859,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'9  2  98  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,57,2,98,1648629859,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 
 # Jumplist (newest first):
+-'  2  178  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,39,2,178,1648631240,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+-'  2  151  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,39,2,151,1648631080,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 -'  2  137  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
 |4,39,2,137,1648630456,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 -'  2  118  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
@@ -83,13 +87,17 @@
 |4,39,1,0,1648622406,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 -'  1  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
 |4,39,1,0,1648622406,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+-'  1  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,39,1,0,1648622406,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+-'  1  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,39,1,0,1648622406,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-	*	1648630455	0
-	"	2	137
-	^	2	138
-	.	2	137
+	*	1648631238	0
+	"	2	178
+	^	2	179
+	.	2	178
 	+	1	40
-	+	2	137
+	+	2	178
