@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1648622418,,"wq"
+|2,0,1648622533,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,27 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-|4,48,2,0,1648622418,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'0  2  15  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,48,2,15,1648622533,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+'1  2  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,49,2,0,1648622418,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 
 # Jumplist (newest first):
+-'  2  15  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,39,2,15,1648622533,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 -'  2  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
 |4,39,2,0,1648622418,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
+-'  1  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
+|4,39,1,0,1648622406,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 -'  1  0  ~/podium.ppi-cnt-ent-insights.engine/yt.txt
 |4,39,1,0,1648622406,"~/podium.ppi-cnt-ent-insights.engine/yt.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/podium.ppi-cnt-ent-insights.engine/yt.txt
-	*	1648622416	0
-	"	2	0
-	^	2	0
-	.	1	40
+	*	1648622530	0
+	"	2	15
+	^	2	16
+	.	2	15
 	+	1	40
+	+	2	15
