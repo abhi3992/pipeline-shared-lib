@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="firefox.desktop" score="3412.5" last-seen="1648458793"/>
-    <application id="org.gnome.Terminal.desktop" score="23939" last-seen="1648630546"/>
+    <application id="org.gnome.Terminal.desktop" score="24556" last-seen="1648635860"/>
     <application id="update-manager.desktop" score="0" last-seen="1648445440"/>
   </context>
 </application-state>
